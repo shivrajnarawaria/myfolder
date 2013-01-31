@@ -1,0 +1,4 @@
+myfolder
+========
+
+only sharable folder
